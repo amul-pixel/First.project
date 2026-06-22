@@ -1,5 +1,7 @@
 # First.project
 A simple game created with while,if, break and looping. 
+
+
 Guessing game code :
 I used sec_number ,guess_count as a variable. Where sec_number can be assumed as the number to be guessed. Where as guess_count can be stated to be as number of guesses. I set it to 0 as no guess has been made. Using a while loop an essential part required in almost every game.  I used guess_count as a condition which should be less than 3 . I didn't put an less than or equal to sign as it gives us up to 4 tries as guess_count has been set to 0.
 
